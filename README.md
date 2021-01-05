@@ -1,2 +1,2 @@
-# jovenes
+# jóvenes
 Pizarra de Informacion
